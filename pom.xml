@@ -90,7 +90,7 @@
 
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
-            <version>6.1.5</version>
+            <version>6.1.14</version>
         </dependency>
 
         <dependency>
